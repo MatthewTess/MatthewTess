@@ -1,4 +1,4 @@
-### Hello 👋 my name is Matthews
+### Hello 👋 my name is Matthew
 
 <!--
 **MatthewTess/MatthewTess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
