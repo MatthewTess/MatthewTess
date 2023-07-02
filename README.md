@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matthewtess" alt="matthewtess" /></a> </p>
 
-- 🔭 Languages/frameworks I am currently studying **PHP and SQL**
+- 🔭 Languages/frameworks I am currently studying: **PHP and SQL**
 
-- 🌱 I’m currently learning **Web Dev.**
+- 🌱 I’m currently learning: **Web Dev.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MatthewTess?tab=repositories](https://github.com/MatthewTess?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/MatthewTess?tab=repositories](https://github.com/MatthewTess?tab=repositories)
 
-- 📫 How to reach me **mtessema@ucmerced.edu**
+- 📫 How to reach me: **mtessema@ucmerced.edu**
 
-- ⚡ Fun fact **semi-decent skateboarder and gamer**
+- ⚡ Fun fact: **okay-ish skateboarder and gamer**
 
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ matthew-tessema-404414227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ matthew-tessema-404414227" height="30" width="40" /></a>
