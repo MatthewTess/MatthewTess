@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at: [https://github.com/MatthewTess?tab=repositories](https://github.com/MatthewTess?tab=repositories)
 
-- 📫 How to reach me: **mtessema@ucmerced.edu**
-
 - ⚡ Fun fact: **okay-ish skateboarder and gamer**
 
 <p align="left">
