@@ -11,7 +11,7 @@
 
 - 🔭 Languages/frameworks I am currently studying: **PHP and SQL**
 
-- 🌱 I’m currently learning: **Web Dev.**
+- 🌱 I’m currently expanding my knowledge in: **Web Dev.**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/MatthewTess?tab=repositories](https://github.com/MatthewTess?tab=repositories)
 
