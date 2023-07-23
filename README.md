@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matthewtess" alt="matthewtess" /></a> </p>
 
-- 🔭 Languages/frameworks I am currently studying: **PHP and SQL**
+- 🔭 Languages/frameworks I am currently learning: **PHP and R**
 
 - 🌱 I’m currently expanding my knowledge in: **Web Dev.**
 
