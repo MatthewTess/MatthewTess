@@ -2,7 +2,7 @@
 
 <h3 align="center">A CSE graduate who has a passion for Python and C++</h3>
 
-<img align="center" alt="Coding" width="700" src="https://thumbs.gfycat.com/ImpracticalMarriedAfricanhornbill-size_restricted.gif">
+<img align="center" alt="Coding" width="1000" src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-93.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewtess&label=Profile%20views&color=0e75b6&style=flat" alt="matthewtess" /> </p>
